@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38" started-at="2020-05-28T13:16:19Z" finished-at="2020-05-28T13:16:19Z">
+  <suite name="Default suite" duration-ms="35" started-at="2020-05-28T14:13:42Z" finished-at="2020-05-28T14:13:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38" started-at="2020-05-28T13:16:19Z" finished-at="2020-05-28T13:16:19Z">
-      <class name="com.newWorkspace.qa.Login.App">
-        <test-method status="PASS" signature="FirstTest()[pri:0, instance:com.newWorkspace.qa.Login.App@b97c004]" name="FirstTest" duration-ms="12" started-at="2020-05-28T18:46:19Z" finished-at="2020-05-28T18:46:19Z">
+    <test name="Default test" duration-ms="35" started-at="2020-05-28T14:13:42Z" finished-at="2020-05-28T14:13:42Z">
+      <class name="com.newWorkspace.qa.Login.Class1">
+        <test-method status="PASS" signature="class1Test1()[pri:0, instance:com.newWorkspace.qa.Login.Class1@b97c004]" name="class1Test1" duration-ms="11" started-at="2020-05-28T19:43:42Z" finished-at="2020-05-28T19:43:42Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- FirstTest -->
-      </class> <!-- com.newWorkspace.qa.Login.App -->
+        </test-method> <!-- class1Test1 -->
+      </class> <!-- com.newWorkspace.qa.Login.Class1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
