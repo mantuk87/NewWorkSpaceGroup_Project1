@@ -7,5 +7,6 @@ public class Class1 {
 	public void class1Test1() {
 		System.out.println("Test1 method of Class1");
 		System.out.println("Line 2 of Test1 method of Class1");
+		System.out.println("Line 3 of Test1 method of Class1");
 	}
 }
